@@ -1,0 +1,12 @@
+
+export const  ADD_BOOK = 'ADD_BOOK'
+export const  GET_BOOKS = 'GET_BOOKS'
+export const  GET_BOOK = 'GET_BOOK'
+export const  SET_ALERT = 'SET_ALERT'
+export const  ADD_COMMENT = 'ADD_COMMENT'
+export const  GET_COMMENTS = 'GET_COMMENTS'
+export const  ADD_CONTACT = 'ADD_CONTACT'
+export const  BOOKS_ERROR = 'BOOKS_ERROR'
+export const  CONTACT_ERROR = 'CONTACT_ERROR'
+export const COMMENT_ERROR = 'COMMENT_ERROR'
+export const  SET_LOADING = 'SET_LOADING'

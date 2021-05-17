@@ -1,0 +1,87 @@
+{
+  "books": [
+    {
+      "Name": "Deacon King kong",
+      "category": "Historical Fiction",
+      "label": "Deacon King Kong by James McBride",
+      "prize": "500",
+      "description": "Deacon King Kong is fast, deep, complex, and hilarious. McBride's prose is shimmering and moving, a living thing that has its own rhythm, pulls you in from the first page and never lets go. His story focuses on the people that make the Big Apple what it is: the strange, the poor, the insane, the mobsters.",
+      "image": "/images/book1.png",
+      "comments": [
+       
+        {
+          "id": "f45f9551-2282-4893-97b2-8ab88eb5144f",
+          "Name": "hari",
+          "Comment": "This is  good book to read"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "Name": "A Promised Land",
+      "category": "Political",
+      "label": "A Promised Land book by Barak Obama",
+      "prize": "500",
+      "description": "The memoir, remaining focused on Obama's political life, begins with his early life, details his first campaigns, and stretches through most of his first term as President. The book concludes with the events surrounding the killing of Osama bin Laden in May 2011, ending with a meeting between Obama and the Navy SEALs who conducted the raid.[8] While the book remains focused on politics, the first 200 pages of the book, approximately, are devoted to Obama's life and career up through his time in Chicago",
+      "image": "/images/book2.png",
+      "comments": [
+        {
+          "id": "d32bc2c1-267c-462e-8978-90154a223b21",
+          "Name": "suresh",
+          "Comment": "this is book very interesting "
+        }
+      ],
+      "id": 2
+    },
+    {
+      "Name": "War",
+      "category": "spritual",
+      "label": "By Margaret MacMillan",
+      "prize": "500",
+      "description": "In War, Professor Margaret MacMillan explores the deep links between society and war and the questions they raise. We learn when war began - whether among early homo sapiens or later, as we began to organise ourselves into tribes and settle in communities. We see the ways in which war reflects changing societies and how war has brought change - for better and worse.",
+      "image": "/images/book3.png",
+      "comments": [
+        {
+          "id": "7429c54f-67fc-418b-b1a0-c7b63c6858f7",
+          "Name": "kjdashkas",
+          "Comment": "aksjask"
+        },
+        {
+          "id": "7861db48-94a0-4037-bf74-7ddb7614dd55",
+          "Name": "bharath",
+          "Comment": "this book gives complete informtion about war "
+        }
+      ],
+      "id": 3
+    },
+    {
+      "Name": "akjsds",
+      "category": "aksjdhalksjd",
+      "label": "aksdnask",
+      "price": "aslkdjlas",
+      "description": "askdlask",
+      "comments": [],
+      "id": 4
+    }
+  ],
+  "contacts": [
+    {
+      "Name": "suresh",
+      "id": 1,
+      "Email": "suresh@gmail.com",
+      "why do you want to contact us": "I want this books"
+    },
+    {
+      "Name": "Ramesh",
+      "id": 2,
+      "Email": "ramesh@gmail.com",
+      "why do you want to contact us": "This book is very good "
+    },
+    {
+      "Name": "bharath",
+      "Email": "bharatmail.@gmail.com",
+      "contact": "I want war books",
+      "id": 3
+    }
+  ]
+}
